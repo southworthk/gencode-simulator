@@ -41,7 +41,7 @@ public class Simulator {
     private static int trialStatusThreshold = 100000000; // the display frequency, default to one hundred million
     //private static int trialStatusThreshold = 1000000;
 
-    private static final String VERSION = "1.12";
+    private static final String VERSION = "1.13";
     private static ArrayList<Integer> aaDiff;
 
     /**
